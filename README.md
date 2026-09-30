@@ -21,3 +21,6 @@ KARTA F.M. is a guesthouse in Kamianets-Podilskyi at vul. Industrialna, 3, posit
 
 ## Notes
 The page explicitly states several details are not yet confirmed: room categories/pricing/group capacity, activity routes/equipment/age limits/pricing, conference hall capacity/equipment/pricing, and guest ratings/reviews.
+
+## Forms
+Connected to HotelOS (`kp-kartafm`): `stay-request` (after Проживання) and `conference-request` (after Конференц-зал). Activities have no dedicated form; guests can mention them in the stay request.
